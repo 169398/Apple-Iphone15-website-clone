@@ -37,5 +37,10 @@ npm run dev
 ```
 This will start the development server at http://localhost:3000 by default.
 
-## License:
-[ MIT License]
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+## Contact
+
+For any inquiries or feedback, please contact [Idris Kulubi](mailto:kulubiidris@egmail.com).
