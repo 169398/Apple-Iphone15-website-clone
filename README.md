@@ -27,13 +27,15 @@ This project is a recreation of the iPhone 15 Pro website built with React.js, f
 ```bash
 git clone https://github.com/your-username/iphone-15-pro-clone.git
 ```
-##Install dependencies:
+## Install dependencies:
 ```bash
 npm install
 ```
-##Run the development server:
+## Run the development server:
 ```bash
 npm run dev
 ```
 This will start the development server at http://localhost:3000 by default.
 
+## License:
+[ MIT License]
